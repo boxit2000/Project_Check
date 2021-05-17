@@ -72,7 +72,7 @@ let products = [
         fullDes: "“A lamp with personality” is how Perimeter Table Lamp has been described. I find that floor lamps are often big and dominant. An antidote to overbearing lamps, he conceived his new lamp to literally “peek” over a sofa or armchair. The proportions have shrunk for the Table Lamp, with a dip in the top of the base for needful things – earplugs or jewellery.",
         fullDes2: "Designed for apartment no. 50 at Le Corbusier’s ‘Cité Radieuse’ in Marseille, the Lamp’s aesthetic was centred on the idea to become a versatile everyday companion; one that could correspond to the landmark’s style and improve its inhabitants daily comfort.",
         shortDes: "Honest materials – concrete and brass – are transformed into a lamp of beauty inspired by traditional oil lamps.",
-        catelogy: ["Accessories", "Decoration"],
+        catelogy: ["Accessories"],
         bigImage: ["./Img_Chi_Tiết_SP/IMG_Data/Big_Img/SP_3/1.jpg", "./Img_Chi_Tiết_SP/IMG_Data/Big_Img/SP_3/2.jpg", "./Img_Chi_Tiết_SP/IMG_Data/Big_Img/SP_3/3.jpg", "./Img_Chi_Tiết_SP/IMG_Data/Big_Img/SP_3/4.jpg"],
         AdditionalInfo: {
             weight: "2.75 kg",
