@@ -369,7 +369,7 @@ function Accessories() {
                 console.log(detailName);
                 localStorage.setItem('itemClick', JSON.stringify(products[idAccssesories[i]]))
                 // window.location.href = '../Trang_Detail/index.html';
-                window.location.href = 'http://127.0.0.1:5500/Project_Rework/Trang_Detail/index.html';
+                window.location.href = '../Trang_Detail/index.html';
 
             })
         }
@@ -436,7 +436,7 @@ function Decoration() {
                 console.log(detailName);
                 localStorage.setItem('itemClick', JSON.stringify(products[idDecoration[i]-1]))
                 // window.location.href = '../Trang_Detail/index.html';
-                window.location.href = 'http://127.0.0.1:5500/Project_Rework/Trang_Detail/index.html';
+                window.location.href = '../Trang_Detail/index.html';
 
             })
         }
@@ -454,7 +454,7 @@ function clickItem() {
             console.log(detailName);
             localStorage.setItem('itemClick', JSON.stringify(products[i]))
             // window.location.href = '../Trang_Detail/index.html';
-            window.location.href = 'http://127.0.0.1:5500/Project_Rework/Trang_Detail/index.html';
+            window.location.href = '../Trang_Detail/index.html';
 
         })
     }

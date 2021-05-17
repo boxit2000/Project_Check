@@ -557,7 +557,7 @@ function onloadData() {
                                         <p class="titleCate">Categories: &nbsp;</p>
                                         <a href="../Trang_Accessories/index.html" >Accessories</a>
                                         <p class="dauphay">,</p>
-                                        <a href="http://127.0.0.1:5500/Trang_Decor/index.html">Decoration</a>
+                                        <a href="../Trang_Decor/index.html">Decoration</a>
                                     </div>
                                 </div>
                                 <br>
